@@ -28,6 +28,7 @@
     "no-console": "off",
     "no-use-before-define": "warn",
     "no-param-reassign": "warn",
+    "import/prefer-default-export": "off",
     "prettier/prettier": [
       "error",
       {
